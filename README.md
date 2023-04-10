@@ -8,8 +8,8 @@
 *(Original_file_name).hack* . All the Implementation are done in Python. <br>
 
 #### **Types of Instruction**
-* **A-Instruction** : Addressing Instruction
-* **C-Instruction** : Computation Instruction
+* **A-Instruction** : Addressing Instruction `@value`
+* **C-Instruction** : Computation Instruction `dest=comp;jump`
 
 
 ## **Example**
