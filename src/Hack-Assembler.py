@@ -32,7 +32,7 @@ destination={
     "A":"100",
     "AM":"101",
     "AD":"110",
-    "AMD":"111"
+    "AMD":"111",
 }
 
 # Computation Binary values when "A" is present in the line
