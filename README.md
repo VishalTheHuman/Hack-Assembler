@@ -1,5 +1,5 @@
 # **Hack Assembler 💻📟**
-![Hack_Assembler_Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/117697246/292635705-3913e216-9ee0-4902-b151-2feb8a7e5ef1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231223T162827Z&X-Amz-Expires=300&X-Amz-Signature=d9329367c638d096ccf916b8e1a89fc0908598f75104a9264cfc66b94c69f535&X-Amz-SignedHeaders=host&actor_id=117697246&key_id=0&repo_id=730075162)
+![Hack_Assembler_Banner](assets/Hack_Assembler_Banner.png)
 
 ## **Description**
 🟡 ***Assembler*** is a tool used to convert a Hack Assembly Language program, which is a text file with a .asm extension, into binary machine code (Hack Machine Language). The resulting machine code is then saved to a new file with a .hack extension. <br>
